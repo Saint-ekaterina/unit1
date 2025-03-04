@@ -1,4 +1,4 @@
-пшplugins {
+plugins {
     id 'java'
 }
 
